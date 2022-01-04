@@ -1,0 +1,11 @@
+name: squads-master
+title:
+username:
+account: playerconnections
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4291781
+bundleId: 4733848
+url: https://playerconnections.shinyapps.io/squads-master/
+when: 1624105764.54291
+lastSyncTime: 1624105764.54291
